@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="Zdd4O_8U9urGJ2uWjXP6">
-    <mxGraphModel dx="1563" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2266" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,13 +106,13 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="经典算法可量子化分析技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="339" y="990" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="量子噪声模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="量子噪声模拟模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="1180" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-50" value="量子并行优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-50" value="量子模拟并行优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="1220" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;网络虚拟化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;量子模拟云网络虚拟化优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="1260" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-55" value="“经典+量子”混合算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -222,25 +222,25 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-110" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;应用验证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="539" y="1080" width="61" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="531.25" y="814.66" as="sourcePoint" />
             <mxPoint x="573.25" y="814.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#CC0000;dashed=1;" edge="1" parent="1">
+        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#CC0000;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="814.66" as="sourcePoint" />
             <mxPoint x="332" y="814.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-7" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-7" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="235" y="800" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-10" value="研究内容与关键技术问题间关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-10" value="研究内容与关键技术问题间关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="335" y="800" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-11" value="关键技术间问题与子任务间关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pJk7IlE4MaVoi0zIQu5Q-11" value="关键技术间问题与子任务间关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="574" y="800" width="176" height="30" as="geometry" />
         </mxCell>
       </root>
