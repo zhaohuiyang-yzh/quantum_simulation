@@ -19,6 +19,9 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究内容&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-10" target="4AtZvL3RW2-XeUfKdOJ_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="100" height="60" as="geometry" />
         </mxCell>
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;关键技术问题&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;opacity=50;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-20" target="4AtZvL3RW2-XeUfKdOJ_-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="100" height="100" as="geometry" />
@@ -56,7 +62,7 @@
           <mxGeometry x="540" y="690" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="690" width="100" height="80" as="geometry" />
+          <mxGeometry x="663" y="690" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务一&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="690" width="130" height="30" as="geometry" />
@@ -65,7 +71,7 @@
           <mxGeometry x="526.5" y="690" width="123.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务三&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="645" y="690" width="130" height="30" as="geometry" />
+          <mxGeometry x="648" y="690" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-38" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="160" y="860" width="620" height="420" as="geometry" />
@@ -124,11 +130,17 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-63" value="如何设计并实现适合量子算法研究的量子噪声模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="507.5" width="80" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-64" target="4AtZvL3RW2-XeUfKdOJ_-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-65" value="量子模拟并行技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3399FF;opacity=50;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-66" target="4AtZvL3RW2-XeUfKdOJ_-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="100" height="100" as="geometry" />
@@ -136,11 +148,19 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-67" value="如何结合各种量子应用的特点进行大规模并行技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="507.5" width="80" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-68" target="4AtZvL3RW2-XeUfKdOJ_-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="420" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-69" value="量子模拟的虚拟网络技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;opacity=50;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="100" height="100" as="geometry" />
@@ -148,11 +168,17 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-71" value="如何进行网络虚拟化和优化实现量子模拟的高速网络通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="507.5" width="90" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-72" target="4AtZvL3RW2-XeUfKdOJ_-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-72" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-73" value="“经典+量子”混合算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="673.5" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3399FF;opacity=50;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-74" target="4AtZvL3RW2-XeUfKdOJ_-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="663.5" y="490" width="100" height="100" as="geometry" />
@@ -160,11 +186,17 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-75" value="如何设计和实现与融合架构适配的混合算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="673.5" y="507.5" width="80" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#CC0000;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-76" target="4AtZvL3RW2-XeUfKdOJ_-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-76" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="539" y="330" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-77" value="量子经典融合的行业应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="549" y="345" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;opacity=50;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-78" target="4AtZvL3RW2-XeUfKdOJ_-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="490" width="100" height="100" as="geometry" />
@@ -179,7 +211,7 @@
           <mxGeometry x="549" y="720" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-82" value="“经典+量子”混合算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="720" width="80" height="30" as="geometry" />
+          <mxGeometry x="673" y="720" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
