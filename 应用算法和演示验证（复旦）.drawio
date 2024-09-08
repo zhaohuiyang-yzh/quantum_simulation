@@ -115,7 +115,7 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;网络虚拟化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="225" y="1260" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-53" value="混合行业应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-53" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="539" y="1220" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-55" value="“经典+量子”混合算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -227,6 +227,12 @@
             <mxPoint x="460" y="1150" as="sourcePoint" />
             <mxPoint x="510" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-100" value="混合行业应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1260" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
