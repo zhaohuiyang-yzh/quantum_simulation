@@ -216,6 +216,18 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-93" value="量子科学计算算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="339" y="1030" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.993;exitY=0.156;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-43" target="4AtZvL3RW2-XeUfKdOJ_-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1150" as="sourcePoint" />
+            <mxPoint x="510" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.999;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.007;exitY=0.404;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4AtZvL3RW2-XeUfKdOJ_-44" target="4AtZvL3RW2-XeUfKdOJ_-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1150" as="sourcePoint" />
+            <mxPoint x="510" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
