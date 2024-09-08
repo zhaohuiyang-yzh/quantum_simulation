@@ -80,7 +80,7 @@
           <mxGeometry x="344.5" y="890" width="251" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="940" width="423.5" height="120" as="geometry" />
+          <mxGeometry x="240" y="940" width="423.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="1120" width="230" height="170" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务一&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="1120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="量子机器学习算法，量子科学计算算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="量子机器学习算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="325" y="990" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="量子噪声模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -206,6 +206,9 @@
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-82" value="“经典+量子”混合算法研究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="673" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-93" value="量子科学计算算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1030" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
