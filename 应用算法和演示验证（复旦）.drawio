@@ -76,6 +76,18 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="690" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-31" value="基于超算的量子模拟技术" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="515" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务一&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务二&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务三&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
