@@ -97,19 +97,19 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1e12cb&quot;&gt;子任务一&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1070" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="量子机器学习算法，量子科学计算算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="325" y="990" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="量子噪声模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="1120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-50" value="量子并行优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="1160" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-51" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;网络虚拟化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="1200" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-52" value="混合行业应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="534" y="1120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
