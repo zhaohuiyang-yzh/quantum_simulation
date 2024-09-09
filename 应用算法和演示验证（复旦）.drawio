@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="Zdd4O_8U9urGJ2uWjXP6">
-    <mxGraphModel dx="1888" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2266" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-48" value="经典算法可量子化分析技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="339" y="990" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="面向经典算法的可量子化分析验证技术研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4AtZvL3RW2-XeUfKdOJ_-49" value="可量子化分析验证技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="225" y="1180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4AtZvL3RW2-XeUfKdOJ_-50" value="量子模拟并行优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
